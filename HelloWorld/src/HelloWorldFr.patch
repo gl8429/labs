@@ -1,0 +1,25 @@
+From 353ff599821aa1dcb122ae7bdf128e063192dc92 Mon Sep 17 00:00:00 2001
+From: gl8429 <lucifer92.lin@gmail.com>
+Date: Sun, 5 Oct 2014 01:08:32 -0500
+Subject: [PATCH] fe
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..e31d929 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Bonjour, monde");
+ 	}
+ 
+ }
+-- 
+1.8.5.2 (Apple Git-48)
+
